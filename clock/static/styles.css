@@ -1,0 +1,14 @@
+.time{
+    height: 20%;
+    width: 30%;
+    color: royalblue;
+    text-align: center;
+    border: black solid 2px;
+    font-size: 70px;
+    display: inline-block;
+}
+
+section{
+    text-align: center;
+    margin-top: 20%;
+}
